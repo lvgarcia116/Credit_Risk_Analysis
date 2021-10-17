@@ -5,6 +5,7 @@ The purpose of this analysis is to employe different techniques to train and eva
 
 ## Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 -The results of the Naive Random Oversampling is below. The accuracy of this model is 64%, precision for the high risk group is 1%, and the sensitivity/recall is 66%.
+
 <img width="641" alt="naive" src="https://user-images.githubusercontent.com/86024512/137638908-80fb61d1-29e7-41a0-b66d-ff9b8b80de61.png">
 
 
