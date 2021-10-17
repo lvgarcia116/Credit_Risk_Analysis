@@ -13,6 +13,7 @@ The results of SMOTE Oversample is below. The accuracy of this model is 65%, pre
 <img width="694" alt="SMOTE" src="https://user-images.githubusercontent.com/86024512/137639065-35161606-632e-4492-9a97-46e4efb80dde.png">
 
 The results of Undersampling is below. The accuracy of this model is 65%, precision for the high risk group is 1%, and the sensitivity/recall is 40% overall.
+
 <img width="719" alt="Screen Shot 2021-10-17 at 1 55 29 PM" src="https://user-images.githubusercontent.com/86024512/137639150-d4a421ec-ebb1-48d7-83d4-e73654262f46.png">
 
 
