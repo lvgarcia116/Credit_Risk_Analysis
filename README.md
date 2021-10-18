@@ -3,7 +3,7 @@
 The purpose of this analysis is to employe different techniques to train and evaluate models with unbalanced classes. This analysis uses imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling.
 
 
-## Results: 
+## Results
 The results of Naive Random Oversampling are below. The accuracy of this model is 64%, precision for the high risk group is 1%, and the sensitivity/recall is 66%.
 
 <img width="641" alt="naive" src="https://user-images.githubusercontent.com/86024512/137638908-80fb61d1-29e7-41a0-b66d-ff9b8b80de61.png">
@@ -30,5 +30,5 @@ The results of Easy Ensemble AdaBoost Classifier results are below. The accuracy
 <img width="689" alt="AdaBoost" src="https://user-images.githubusercontent.com/86024512/137639467-afde8761-a46d-458d-9c3b-6b6ebed47994.png">
 
 
+## Summary
 
-## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
