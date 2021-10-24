@@ -31,4 +31,5 @@ The results of Easy Ensemble AdaBoost Classifier results are below. The accuracy
 
 
 ## Summary
-
+There is a summary of the results (2 pt)
+There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
