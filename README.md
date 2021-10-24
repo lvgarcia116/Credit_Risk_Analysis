@@ -31,6 +31,4 @@ The results of Easy Ensemble AdaBoost Classifier results are below. The accuracy
 
 
 ## Summary
-This analysis used different types of sampling to determine which model is the best at predicting high risk loans. The first four models do not have a good accuracy score as the last two models 
-
-In the first four models we undersampled, oversampled and did a combination of both to try and determine which model is best at predicting which loans are the highest risk. The next two models we resampled the data using ensemble classifiers to try and predict which which loans are high or low risk. In our first four models our accuracy score is not as high as the ensemble classifiers and the recall in the oversampling/undersampling/mixed models is low as well. Typically in your models you want a good balance of recall and precision which is why I recommend the ensemble classifiers over the first four models. It appears that the Easy Ensemble had the best balance of all the models because of it's high accuracy score and good balance of precision and recall scores.
+This analysis used different types of sampling to determine which model is the best at predicting high risk loans. The first four models do not have a good accuracy score as the last two models where as the last two have high accuracy and recall. I recommend using the Balanced Random Forest Classifier and/or Easy Ensemble AdaBoost Classifier as these models provide a good balance of accuracy and recall/sensitivity.
